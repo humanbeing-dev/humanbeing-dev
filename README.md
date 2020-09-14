@@ -34,3 +34,9 @@
 
 [linkedin]: https://linkedin.com/in/maciej-sitowski/
 [stackoverflow]: https://stackoverflow.com/users/12099563/humanbeing
+
+
+---
+<br />
+
+<img align="left" alt="humanbeing-dev github stats" src="https://github-readme-stats.vercel.app/api?username=humanbeing-dev&show_icons=true)" />
