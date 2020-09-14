@@ -35,7 +35,7 @@
 [linkedin]: https://linkedin.com/in/maciej-sitowski/
 [stackoverflow]: https://stackoverflow.com/users/12099563/humanbeing
 
-
+<br />
 ---
 <br />
 
