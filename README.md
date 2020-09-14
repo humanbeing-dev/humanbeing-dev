@@ -1,6 +1,7 @@
-# I'm Maciej
-I'm Junior Python Developer
-2020 goal:
+# I'm Junior Python Developer
+
+</br>
+My 2020 goal:
 * [ ] Read [Learn Python](https://www.goodreads.com/book/show/80435.Learning_Python)
 * [ ] Finish Todo Web App
 
