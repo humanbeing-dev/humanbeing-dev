@@ -1,11 +1,17 @@
 ## I'm Junior Python Developer
 
-My 2020 goal: <br />
+### My 2020 goal: <br />
 <!-- Tasks to do -->
 * [ ] Read [Learn Python](https://www.goodreads.com/book/show/80435.Learning_Python)
 * [ ] Finish Todo Web App
 
 <br />
+
+### My projects list: <br />
+<!-- Tasks to do -->
+1. [My todo application](https://github.com/humanbeing-dev/MyTodo_App)
+1. [Connect Four](https://github.com/humanbeing-dev/ConnectFour)
+
 <br />
 
 ### Languages and Tools:
