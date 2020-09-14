@@ -2,6 +2,7 @@
 
 </br>
 My 2020 goal:</br>
+<!-- Tasks to do -->
 * [ ] Read [Learn Python](https://www.goodreads.com/book/show/80435.Learning_Python)
 * [ ] Finish Todo Web App
 
