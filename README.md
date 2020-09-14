@@ -1,4 +1,4 @@
-# I'm Junior Python Developer
+## I'm Junior Python Developer
 
 </br>
 My 2020 goal:</br>
@@ -7,8 +7,11 @@ My 2020 goal:</br>
 * [ ] Finish Todo Web App
 
 
+
 [<img align="left" alt="humanbeing-dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="humanbeing-dev | StackOverFlow" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3ZcfaPSJ17XXbI1xggkqIFaC7QnXLN7YF4Q&usqp=CAU" />][stackoverflow]
+
+### Connect with me:
 
 [linkedin]: https://linkedin.com/in/maciej-sitowski/
 [stackoverflow]: https://stackoverflow.com/users/12099563/humanbeing
