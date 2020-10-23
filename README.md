@@ -9,8 +9,8 @@
 
 ### My projects list: <br />
 <!-- Tasks to do -->
-1. [My todo application](https://github.com/humanbeing-dev/MyTodo_App)
-1. [FlashcardApp](https://github.com/humanbeing-dev/FlashcardApp)
+1. [Django - My todo application](https://github.com/humanbeing-dev/MyTodo_App)
+1. [Tkinter - FlashcardApp](https://github.com/humanbeing-dev/FlashcardApp)
 1. [Connect Four](https://github.com/humanbeing-dev/ConnectFour)
 
 <br />
