@@ -14,6 +14,7 @@
 1. [Tkinter - MusicPlayerApp](https://github.com/humanbeing-dev/mp3-player)
 1. [Tkinter - examples](https://github.com/humanbeing-dev/tkinter_examples)
 1. [Tkinter - elements](https://github.com/humanbeing-dev/tkinter_elements)
+1. [Corey Schafer Python examples](https://github.com/humanbeing-dev/CSchafer-tutorial)
 1. [Connect Four](https://github.com/humanbeing-dev/ConnectFour)
 
 <br />
