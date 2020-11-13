@@ -8,7 +8,7 @@
 <br />
 
 ### My projects list: <br />
-<!-- Tasks to do -->
+<!-- Tasks to do
 1. [Django - My todo application](https://github.com/humanbeing-dev/MyTodo_App)
 1. [Tkinter - TextEditorApp](https://github.com/humanbeing-dev/text-editor)
 1. [Tkinter - FlashcardApp](https://github.com/humanbeing-dev/FlashcardApp)
@@ -17,6 +17,16 @@
 1. [Tkinter - elements](https://github.com/humanbeing-dev/tkinter_elements)
 1. [Corey Schafer Python examples](https://github.com/humanbeing-dev/CSchafer-tutorial)
 1. [Connect Four](https://github.com/humanbeing-dev/ConnectFour)
+ -->
+
+
+| Django                                                              | Tkinter                                                                  | Tutorials                                                                            |
+|---------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| [My todo application](https://github.com/humanbeing-dev/MyTodo_App) | [Tkinter - TextEditorApp](https://github.com/humanbeing-dev/text-editor) | [Corey Schafer Python examples](https://github.com/humanbeing-dev/CSchafer-tutorial) |
+| [Simple App](https://github.com/humanbeing-dev/LD01-SimpleApp)      | [Tkinter - MusicPlayerApp](https://github.com/humanbeing-dev/mp3-player) |                                                                                      |
+| [Stateless App](https://github.com/humanbeing-dev/LD02-Stateless)   | [Tkinter - FlashcardApp](https://github.com/humanbeing-dev/FlashcardApp) |                                                                                      |
+|                                                                     | [Tkinter - examples](https://github.com/humanbeing-dev/tkinter_examples) |                                                                                      |
+|                                                                     | [Tkinter - elements](https://github.com/humanbeing-dev/tkinter_elements) |                                                                                      |
 
 <br />
 
