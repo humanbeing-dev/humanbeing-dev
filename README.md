@@ -10,6 +10,7 @@
 ### My projects list: <br />
 <!-- Tasks to do -->
 1. [Django - My todo application](https://github.com/humanbeing-dev/MyTodo_App)
+1. [Tkinter - TextEditorApp](https://github.com/humanbeing-dev/text-editor)
 1. [Tkinter - FlashcardApp](https://github.com/humanbeing-dev/FlashcardApp)
 1. [Tkinter - MusicPlayerApp](https://github.com/humanbeing-dev/mp3-player)
 1. [Tkinter - examples](https://github.com/humanbeing-dev/tkinter_examples)
