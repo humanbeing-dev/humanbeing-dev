@@ -3,6 +3,8 @@
 ### My 2020 goal: <br />
 <!-- Tasks to do -->
 * [ ] Read [Learn Python](https://www.goodreads.com/book/show/80435.Learning_Python) 599/1594
+* [ ] Read [Git pocket guide] 26/206
+* [ ] Finish CS50 course Week 4/9
 * [ ] Finish Todo Web App
 
 <br />
