@@ -1,15 +1,19 @@
 ## I'm Junior Python Developer
 
-### My 2020 goal: <br />
+### My 2021 goal: <br />
 <!-- Tasks to do -->
-* [ ] Read [Learn Python](https://www.goodreads.com/book/show/80435.Learning_Python) 599/1594
-* [ ] Read [Git pocket guide] 26/206
-* [ ] Finish CS50 course Week 4/9
+* [ ] Read [Learn Python](https://www.goodreads.com/book/show/80435.Learning_Python) 627/1594
+* [ ] Read [Git pocket guide] 64/206
 * [ ] Finish Todo Web App
+* [ ] Finish CS50 Web Course 1/9
+* [ ] Finish CS50 Technology Course 1/6
+
+* [X] Finish CS50 course Week 9/9
+
 
 <br />
 
-### My projects list: <br />
+### My Python projects list by framework: <br />
 <!-- Tasks to do
 1. [Django - My todo application](https://github.com/humanbeing-dev/MyTodo_App)
 1. [Tkinter - TextEditorApp](https://github.com/humanbeing-dev/text-editor)
@@ -20,14 +24,25 @@
 1. [Corey Schafer Python examples](https://github.com/humanbeing-dev/CSchafer-tutorial)
 1. [Connect Four](https://github.com/humanbeing-dev/ConnectFour)
  -->
-| Django                                                              | Tkinter                                                                  | C language                                                        | Tutorials                                                                            |
-|---------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| [My todo application](https://github.com/humanbeing-dev/MyTodo_App) | [Tkinter - TextEditorApp](https://github.com/humanbeing-dev/text-editor) | [CS-50 Course](https://github.com/humanbeing-dev/cs50-c-examples) | [Corey Schafer Python examples](https://github.com/humanbeing-dev/CSchafer-tutorial) |
-| [Simple App](https://github.com/humanbeing-dev/LD01-SimpleApp)      | [Tkinter - MusicPlayerApp](https://github.com/humanbeing-dev/mp3-player) |                                                                   |                                                                                      |
-| [Stateless App](https://github.com/humanbeing-dev/LD02-Stateless)   | [Tkinter - FlashcardApp](https://github.com/humanbeing-dev/FlashcardApp) |                                                                   |                                                                                      |
-|                                                                     | [Tkinter - examples](https://github.com/humanbeing-dev/tkinter_examples) |                                                                   |                                                                                      |
-|                                                                     | [Tkinter - elements](https://github.com/humanbeing-dev/tkinter_elements) |                                                                   |                                                                                      |
+| Django                                                              | Flask | Tkinter                                                                  |
+|---------------------------------------------------------------------|-------|--------------------------------------------------------------------------|
+| [My todo application](https://github.com/humanbeing-dev/MyTodo_App) |       | [Tkinter - TextEditorApp](https://github.com/humanbeing-dev/text-editor) |
+| [Simple App](https://github.com/humanbeing-dev/LD01-SimpleApp)      |       | [Tkinter - MusicPlayerApp](https://github.com/humanbeing-dev/mp3-player) |
+| [Stateless App](https://github.com/humanbeing-dev/LD02-Stateless)   |       | [Tkinter - FlashcardApp](https://github.com/humanbeing-dev/FlashcardApp) |
+|                                                                     |       | [Tkinter - examples](https://github.com/humanbeing-dev/tkinter_examples) |
+|                                                                     |       | [Tkinter - elements](https://github.com/humanbeing-dev/tkinter_elements) |
 <br />
+<!-- ### My Python projects list by book/tutorial: <br />
+| Learn Python |
+|--------------|
+| 
+-- >
+
+| C language                                                        |
+|-------------------------------------------------------------------|
+| [CS-50 Course](https://github.com/humanbeing-dev/cs50-c-examples) |
+<br />
+
 
 ### Examples done from [Lightweight Django](https://www.oreilly.com/library/view/lightweight-django/9781491946275/): <br />
 <!-- Tasks to do -->
