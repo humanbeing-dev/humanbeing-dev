@@ -36,7 +36,11 @@
 | Learn Python |
 |--------------|
 | 
--- >
+-->
+| CS50 Web projects |
+|-------------------|
+|[Search](https://github.com/humanbeing-dev/cs50w-0-search)|
+
 
 | C language                                                        |
 |-------------------------------------------------------------------|
