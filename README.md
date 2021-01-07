@@ -5,7 +5,7 @@
 * [ ] Read [Learn Python](https://www.goodreads.com/book/show/80435.Learning_Python) 627/1594
 * [ ] Read [Git pocket guide] 64/206
 * [ ] Finish Todo Web App
-* [ ] Finish CS50 Web Course 1/9
+* [ ] Finish CS50 Web Course 3/9
 * [ ] Finish CS50 Technology Course 1/6
 
 * [X] Finish CS50 course Week 9/9
