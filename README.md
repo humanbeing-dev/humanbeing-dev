@@ -2,10 +2,10 @@
 
 ### My 2021 goal: <br />
 <!-- Tasks to do -->
-* [ ] Read [Learn Python](https://www.goodreads.com/book/show/80435.Learning_Python) 627/1594
+* [ ] Read [Learn Python](https://www.goodreads.com/book/show/80435.Learning_Python) 649/1594
 * [ ] Read [Git pocket guide] 64/206
 * [ ] Finish Todo Web App
-* [ ] Finish CS50 Web Course 3/9
+* [ ] Finish CS50 Web Course 4/9
 * [ ] Finish CS50 Technology Course 1/6
 
 * [X] Finish CS50 course Week 9/9
@@ -41,6 +41,7 @@
 | CS50 Web projects                                          |
 |------------------------------------------------------------|
 | [Search](https://github.com/humanbeing-dev/cs50w-0-search) |
+| [Wiki](https://github.com/humanbeing-dev/cs50w-1-wiki)     |
 
 
 | C language                                                        |
