@@ -2,7 +2,7 @@
 
 ### My 2021 goal: <br />
 <!-- Tasks to do -->
-* [ ] Read [Learn Python](https://www.goodreads.com/book/show/80435.Learning_Python) 649/1594
+* [ ] Read [Learn Python](https://www.goodreads.com/book/show/80435.Learning_Python) 720/1594
 * [ ] Read [Git pocket guide] 64/206
 * [ ] Finish Todo Web App
 * [ ] Finish CS50 Web Course 4/9
