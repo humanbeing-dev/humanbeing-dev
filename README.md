@@ -24,13 +24,13 @@
 1. [Corey Schafer Python examples](https://github.com/humanbeing-dev/CSchafer-tutorial)
 1. [Connect Four](https://github.com/humanbeing-dev/ConnectFour)
  -->
-| Django                                                              | Flask | Tkinter                                                                  |
-|---------------------------------------------------------------------|-------|--------------------------------------------------------------------------|
-| [My todo application](https://github.com/humanbeing-dev/MyTodo_App) |       | [Tkinter - TextEditorApp](https://github.com/humanbeing-dev/text-editor) |
-| [Simple App](https://github.com/humanbeing-dev/LD01-SimpleApp)      |       | [Tkinter - MusicPlayerApp](https://github.com/humanbeing-dev/mp3-player) |
-| [Stateless App](https://github.com/humanbeing-dev/LD02-Stateless)   |       | [Tkinter - FlashcardApp](https://github.com/humanbeing-dev/FlashcardApp) |
-|                                                                     |       | [Tkinter - examples](https://github.com/humanbeing-dev/tkinter_examples) |
-|                                                                     |       | [Tkinter - elements](https://github.com/humanbeing-dev/tkinter_elements) |
+| Django                                                              | Flask | Tkinter                                                                  | FastAPI                                                                               |
+|---------------------------------------------------------------------|-------|--------------------------------------------------------------------------|------------
+| [My todo application](https://github.com/humanbeing-dev/MyTodo_App) |       | [Tkinter - TextEditorApp](https://github.com/humanbeing-dev/text-editor) | [Fill allocation system](https://github.com/hbd-fastapi/fill_allocation_system) |
+| [Simple App](https://github.com/humanbeing-dev/LD01-SimpleApp)      |       | [Tkinter - MusicPlayerApp](https://github.com/humanbeing-dev/mp3-player) |                                                                                       |
+| [Stateless App](https://github.com/humanbeing-dev/LD02-Stateless)   |       | [Tkinter - FlashcardApp](https://github.com/humanbeing-dev/FlashcardApp) |                                                                                       |
+|                                                                     |       | [Tkinter - examples](https://github.com/humanbeing-dev/tkinter_examples) |                                                                                       |
+|                                                                     |       | [Tkinter - elements](https://github.com/humanbeing-dev/tkinter_elements) |                                                                                       |
 <br />
 <!-- ### My Python projects list by book/tutorial: <br />
 | Learn Python |
