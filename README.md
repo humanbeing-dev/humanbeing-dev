@@ -1,4 +1,4 @@
-## I'm Junior Python Developer
+## I'm Python Developer
 
 ### My 2021 goal: <br />
 <!-- Tasks to do -->
@@ -82,4 +82,4 @@
 ---
 <br />
 
-<img align="left" alt="humanbeing-dev github stats" src="https://github-readme-stats.vercel.app/api?username=humanbeing-dev&show_icons=true)" />
+
