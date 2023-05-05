@@ -72,7 +72,7 @@
 
 ### Contact with me:
 [<img align="left" alt="humanbeing-dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="humanbeing-dev | StackOverFlow" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3ZcfaPSJ17XXbI1xggkqIFaC7QnXLN7YF4Q&usqp=CAU" />][stackoverflow]
+[<img align="left" alt="humanbeing-dev | StackOverFlow" width="22px" src="https://user-images.githubusercontent.com/54375820/236453797-706ebe4c-5df1-49b6-b90c-8b97a99bf66d.png" />][stackoverflow]
 
 
 [linkedin]: https://linkedin.com/in/maciej-sitowski/
