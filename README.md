@@ -15,7 +15,4 @@ I'm well organized Python Backend Developer and Team Supporter.
 [stackoverflow]: https://stackoverflow.com/users/12099563/humanbeing
 
 <br />
----
-<br />
-
 
