@@ -1,15 +1,6 @@
 ## I'm Python Developer
 
 ### My 2021 goal: <br />
-<!-- Tasks to do -->
-* [ ] Read [Learn Python](https://www.goodreads.com/book/show/80435.Learning_Python) 720/1594
-* [ ] Read [Git pocket guide] 64/206
-* [ ] Finish Todo Web App
-* [ ] Finish CS50 Web Course 4/9
-* [ ] Finish CS50 Technology Course 1/6
-
-* [X] Finish CS50 course Week 9/9
-
 
 <br />
 
@@ -24,19 +15,7 @@
 1. [Corey Schafer Python examples](https://github.com/humanbeing-dev/CSchafer-tutorial)
 1. [Connect Four](https://github.com/humanbeing-dev/ConnectFour)
  -->
-| Django                                                              | Flask | Tkinter                                                                  | FastAPI                                                                               |
-|---------------------------------------------------------------------|-------|--------------------------------------------------------------------------|------------
-| [My todo application](https://github.com/humanbeing-dev/MyTodo_App) |       | [Tkinter - TextEditorApp](https://github.com/humanbeing-dev/text-editor) | [Fill allocation system](https://github.com/hbd-fastapi/fill_allocation_system) |
-| [Simple App](https://github.com/humanbeing-dev/LD01-SimpleApp)      |       | [Tkinter - MusicPlayerApp](https://github.com/humanbeing-dev/mp3-player) |                                                                                       |
-| [Stateless App](https://github.com/humanbeing-dev/LD02-Stateless)   |       | [Tkinter - FlashcardApp](https://github.com/humanbeing-dev/FlashcardApp) |                                                                                       |
-|                                                                     |       | [Tkinter - examples](https://github.com/humanbeing-dev/tkinter_examples) |                                                                                       |
-|                                                                     |       | [Tkinter - elements](https://github.com/humanbeing-dev/tkinter_elements) |                                                                                       |
-<br />
-<!-- ### My Python projects list by book/tutorial: <br />
-| Learn Python |
-|--------------|
-| 
--->
+
 
 | CS50 Web projects                                          |
 |------------------------------------------------------------|
@@ -49,13 +28,6 @@
 | [CS-50 Course](https://github.com/humanbeing-dev/cs50-c-examples) |
 <br />
 
-
-### Examples done from [Lightweight Django](https://www.oreilly.com/library/view/lightweight-django/9781491946275/): <br />
-<!-- Tasks to do -->
-1. [Simple App](https://github.com/humanbeing-dev/LD01-SimpleApp)
-1. [Stateless App](https://github.com/humanbeing-dev/LD02-Stateless)
-
-<br />
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />
@@ -71,8 +43,8 @@
 <br />
 
 ### Contact with me:
-[<img align="left" alt="humanbeing-dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="humanbeing-dev | StackOverFlow" width="22px" src="https://user-images.githubusercontent.com/54375820/236453797-706ebe4c-5df1-49b6-b90c-8b97a99bf66d.png" />][stackoverflow]
+[<img align="left" alt="humanbeing-dev | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/54375820/236454087-07411bad-cc18-4822-8c29-912f5bd93e25.png" />][linkedin]
+[<img align="left" alt="humanbeing-dev | StackOverFlow" width="22px" src="https://user-images.githubusercontent.com/54375820/236454008-b207ec36-41da-47a0-98e4-e6b8145fb518.png" />][stackoverflow]
 
 
 [linkedin]: https://linkedin.com/in/maciej-sitowski/
